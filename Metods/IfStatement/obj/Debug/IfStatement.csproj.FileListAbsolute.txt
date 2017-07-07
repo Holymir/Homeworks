@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\Metods\IfStatement\bin\Debug\IfStatement.exe.config
+C:\Users\vencislav\Desktop\Trash\Metods\IfStatement\bin\Debug\IfStatement.exe
+C:\Users\vencislav\Desktop\Trash\Metods\IfStatement\bin\Debug\IfStatement.pdb
+C:\Users\vencislav\Desktop\Trash\Metods\IfStatement\obj\Debug\IfStatement.csprojResolveAssemblyReference.cache
+C:\Users\vencislav\Desktop\Trash\Metods\IfStatement\obj\Debug\IfStatement.exe
+C:\Users\vencislav\Desktop\Trash\Metods\IfStatement\obj\Debug\IfStatement.pdb

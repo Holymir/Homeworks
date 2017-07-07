@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\Metods\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe.config
+C:\Users\vencislav\Desktop\Trash\Metods\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe
+C:\Users\vencislav\Desktop\Trash\Metods\Draw a Filled Square\bin\Debug\Draw a Filled Square.pdb
+C:\Users\vencislav\Desktop\Trash\Metods\Draw a Filled Square\obj\Debug\Draw a Filled Square.csprojResolveAssemblyReference.cache
+C:\Users\vencislav\Desktop\Trash\Metods\Draw a Filled Square\obj\Debug\Draw a Filled Square.exe
+C:\Users\vencislav\Desktop\Trash\Metods\Draw a Filled Square\obj\Debug\Draw a Filled Square.pdb

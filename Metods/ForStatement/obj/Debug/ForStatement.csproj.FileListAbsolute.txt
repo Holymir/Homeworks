@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\Metods\ForStatement\bin\Debug\ForStatement.exe.config
+C:\Users\vencislav\Desktop\Trash\Metods\ForStatement\bin\Debug\ForStatement.exe
+C:\Users\vencislav\Desktop\Trash\Metods\ForStatement\bin\Debug\ForStatement.pdb
+C:\Users\vencislav\Desktop\Trash\Metods\ForStatement\obj\Debug\ForStatement.csprojResolveAssemblyReference.cache
+C:\Users\vencislav\Desktop\Trash\Metods\ForStatement\obj\Debug\ForStatement.exe
+C:\Users\vencislav\Desktop\Trash\Metods\ForStatement\obj\Debug\ForStatement.pdb
