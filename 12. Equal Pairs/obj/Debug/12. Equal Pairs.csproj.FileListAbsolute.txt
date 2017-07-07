@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\ForCycle\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe.config
+C:\Users\vencislav\Desktop\Trash\ForCycle\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe
+C:\Users\vencislav\Desktop\Trash\ForCycle\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.pdb
+C:\Users\vencislav\Desktop\Trash\ForCycle\12. Equal Pairs\obj\Debug\12. Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Users\vencislav\Desktop\Trash\ForCycle\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.exe
+C:\Users\vencislav\Desktop\Trash\ForCycle\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.pdb

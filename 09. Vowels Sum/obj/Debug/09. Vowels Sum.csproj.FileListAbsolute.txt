@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\ForCycle\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config
+C:\Users\vencislav\Desktop\Trash\ForCycle\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe
+C:\Users\vencislav\Desktop\Trash\ForCycle\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.pdb
+C:\Users\vencislav\Desktop\Trash\ForCycle\09. Vowels Sum\obj\Debug\09. Vowels Sum.csprojResolveAssemblyReference.cache
+C:\Users\vencislav\Desktop\Trash\ForCycle\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.exe
+C:\Users\vencislav\Desktop\Trash\ForCycle\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.pdb
