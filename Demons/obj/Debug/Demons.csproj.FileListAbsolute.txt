@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\Demons\bin\Debug\Demons.exe.config
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\Demons\bin\Debug\Demons.exe
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\Demons\bin\Debug\Demons.pdb
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\Demons\obj\Debug\Demons.csprojResolveAssemblyReference.cache
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\Demons\obj\Debug\Demons.exe
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\Demons\obj\Debug\Demons.pdb
