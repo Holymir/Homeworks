@@ -1,0 +1,6 @@
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb
+C:\Users\vencislav\Desktop\Trash\ExamPractise\ExamPractise\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
