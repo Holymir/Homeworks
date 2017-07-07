@@ -1,0 +1,5 @@
+C:\Users\vencislav\Desktop\Trash\ForCycle\05. Max Number\bin\Debug\_05.Max_Number.exe.config
+C:\Users\vencislav\Desktop\Trash\ForCycle\05. Max Number\bin\Debug\_05.Max_Number.exe
+C:\Users\vencislav\Desktop\Trash\ForCycle\05. Max Number\bin\Debug\_05.Max_Number.pdb
+C:\Users\vencislav\Desktop\Trash\ForCycle\05. Max Number\obj\Debug\_05.Max_Number.exe
+C:\Users\vencislav\Desktop\Trash\ForCycle\05. Max Number\obj\Debug\_05.Max_Number.pdb
